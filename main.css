@@ -1,0 +1,786 @@
+.stad {
+    display: inline-block;
+}
+.stat {
+    display: inline-block;
+    margin-left: 200px;
+    position: relative;
+}
+.one {
+    font-size: 55px;
+    text-align: left;
+    color:#fff;
+    font-weight: 600;
+}
+.two {
+    font-size: 18px;
+    text-align: left;
+    color:#fff;
+    font-weight: 600;
+    margin-top:20px;
+}
+.doptext {
+    margin-top: 200px;
+    text-align: left;
+    color:#fff;
+    font-weight: 600;
+    position: relative;
+}
+
+.tree {
+    float: left;
+    border-radius: 7px;
+    width: 200px;
+    height: 60px;
+    color:#fff;
+    font-weight: 600;
+    background-color: #49B9E6;
+    margin-top: 30px;
+    transition: all 0.3s;
+}
+.tree:hover {
+    transform: scale(1.03);
+    cursor: pointer;
+}
+
+#buton {
+    padding-top: 17px;
+}
+header {
+    background-color: #00A3E4;
+
+}
+.dex {
+    padding-top: 120px;
+}
+.text {
+    width: 450px;
+}
+.tex {
+    color:#fff;
+    font-size: 15px;
+    display: inline-block;
+
+}
+.icons{
+    display: inline-block;
+}
+.weare {
+    background-color: #0093CE;
+    position: relative;
+}
+.info {
+    padding-top: 90px;
+    padding-bottom: 90px;
+    width: 650px;
+    margin-left: -500px;
+}
+.phone {
+    position: relative;
+    z-index: 1;
+    margin-bottom: -120px;
+}
+.a {
+    display: inline-block;
+}
+
+.facebook {
+    color:#3B5998;
+    display: inline-block;
+}
+.twitter{
+    display: inline-block;
+}
+.cart {
+    background-color: #ECEEF5;
+    display: inline-block;
+    border-radius: 3px;
+    height: 28px;
+}
+.cart:hover {
+    cursor: pointer;
+}
+.soder {
+    padding: 1px 5px 1px 5px;
+    font-weight: 500;
+    display: inline-block;
+}
+.bg {
+    display: inline-block;
+}
+.ar {
+    color: #00ACED;
+}
+.questions {
+    height: 500px;
+    background-color: #0084B8;
+}
+.onewhat {
+    display: inline-block;
+    margin-right: 200px;
+}
+.twowhat {
+    display: inline-block;
+}
+.threewhat {
+    display: inline-block;
+    margin-left: 200px;
+}
+.fuck {
+    font-size: 50px;
+    font-weight: 600;
+    color:#fff;
+}
+.trips {
+    color:#fff;
+    font-size: 17px;
+    margin-top: -25px;
+}
+.what {
+    padding-top: 110px;
+}
+.chill {
+    height: 1350px;
+}
+.boss {
+    display: inline-block;
+}
+.other {
+    display: inline-block;
+    width: 540px;
+    margin-left: 190px;
+}
+.chees {
+    text-align: left;
+    font-size: 16px;
+    font-weight: 500;
+}
+.lonely {
+    font-size: 55px;
+    text-align: left;
+    font-weight: 500;
+}
+.block1 {
+    padding-top: 140px;
+}
+.bass {
+    display: inline-block;
+    margin-left: 170px;
+}
+.block2 {
+    padding-top: 130px;
+}
+.first {
+    display: inline-block;
+}
+.second {
+    display: inline-block;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+.third {
+    display: inline-block;
+}
+.trio {
+    height: 900px;
+    background-color: #ECF0F1;
+}
+.icon {
+    padding-top: 130px;
+}
+.dee {
+    width: 230px;
+    color:#8B8D8E;
+    font-size: 18px;
+    padding-top: 20px;
+}
+.dea {
+    width: 200px;
+    color:#8B8D8E;
+    font-size: 18px;
+    padding-top: 20px;
+}
+.dexter {
+    font-size: 35px;
+    font-weight: 500;
+    padding-top: 30px;
+}
+.sister {
+    font-size: 20px;
+    color:#A6A9AA;
+}
+.more {
+    color:#00A3E4;
+    font-size: 18px;
+}
+.more:hover {
+    cursor: pointer;
+    color:#008FC7;
+}
+.if {
+    height: 150px;
+    background-color: #F1C40F;
+    color:#fff;
+    font-size: 30px;
+}
+.you {
+    padding-top: 55px;
+}
+.doba {
+    display: inline-block;
+}
+.doda {
+    display: inline-block;
+    margin-left: 40px;
+}
+.da {
+    display: inline-block;
+    color:#fff;
+    font-size: 20px;
+    font-weight: 500;
+}
+.colona {
+    display: inline-block;
+    text-align: left;
+}
+.colonad {
+    display: inline-block;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-top: 70px;
+    text-align: left;
+}
+footer {
+    background-color: #D8AF0C;
+    height: 250px;
+}
+.twonted {
+    color:#F8F0DE;
+}
+.twonter {
+    color:#F8F0DE;
+}
+@media screen and (max-width: 1422px) {
+    .other {
+        display: inline-block;
+        width: 540px;
+        margin-left: 10px;
+    }
+}
+@media screen and (max-width: 1242px) {
+    .other {
+        display: inline-block;
+        width: 540px;
+    }
+    
+    .bass {
+        display: inline-block;
+        margin-left: -100px;
+    }
+}
+@media screen and (max-width: 1170px) {
+    .info {
+        padding-top: 90px;
+        padding-bottom: 90px;
+        width: 650px;
+        margin-left: -450px;
+    }
+}
+@media screen and (max-width: 1120px) {
+    .info {
+        padding-top: 90px;
+        padding-bottom: 90px;
+        width: 650px;
+        margin-left: -410px;
+    }
+}
+@media screen and (max-width: 1070px) {
+
+.stat {
+    display: inline-block;
+    margin-left: 100px;
+    position: relative;
+ }
+.tex {
+    color:#fff;
+    font-size: 15px;
+ }
+ .icons{
+    display: block;
+}
+
+.second {
+    display: inline-block;
+    margin-left: 110px;
+    margin-right: 110px;
+}
+.colonad {
+    display: inline-block;
+    margin-right: 80px;
+    margin-left: 80px;
+    padding-top: 70px;
+    text-align: left;
+}
+}
+
+@media screen and (max-width: 970px) {
+    .stat {
+        display: inline-block;
+        margin-left: 50px;
+        position: relative;
+     }
+     .second {
+        display: inline-block;
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+    .colonad {
+        display: inline-block;
+        margin-right: 70px;
+        margin-left: 70px;
+        padding-top: 70px;
+        text-align: left;
+    }
+}
+
+@media screen and (max-width: 910px) {
+    .stat {
+        display: inline-block;
+        margin-left: 20px;
+        position: relative;
+     }
+     .info {
+        padding-top: 90px;
+        padding-bottom: 90px;
+        width: 400px;
+        margin-left: -410px;
+    }
+}
+
+@media screen and (max-width: 961px) {
+    .other {
+        display: block;
+        width: 540px;
+    }
+    
+    .bass {
+        display: block;
+        margin-left: -10px;
+    }
+    .chill {
+        height: 1770px;
+    }
+}
+
+@media screen and (max-width: 890px) {
+    .stat {
+        display: inline-block;
+        margin-left: 0px;
+        position: relative;
+     }
+    
+     .onewhat {
+        display: inline-block;
+        margin-right: 150px;
+    }
+    
+    .threewhat {
+        display: inline-block;
+        margin-left: 150px;
+    }
+}
+@media screen and (max-width: 880px) {
+    .second {
+        display: inline-block;
+        margin-left: 60px;
+        margin-right: 60px;
+    }
+    .colonad {
+        display: inline-block;
+        margin-right: 40px;
+        margin-left: 40px;
+        padding-top: 70px;
+        text-align: left;
+    }
+    .doda {
+        display: inline-block;
+        margin-left: 5px;
+    }
+}
+
+@media screen and (max-width: 867px) {
+    .chill {
+        height: 1860px;
+    }   
+}
+
+@media screen and (max-width: 855px) {
+    .stat {
+        display: inline-block;
+        margin-left: -25px;
+        position: relative;
+     }
+}
+@media screen and (max-width: 830px) {
+    .if {
+        height: 170px;
+        background-color: #F1C40F;
+        color:#fff;
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width: 817px) {
+
+.second {
+    display: inline-block;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.colonad {
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding-top: 70px;
+    text-align: left;
+}
+
+.stat {
+    display: block;
+    margin-left: 0px;
+    position: relative;
+ }
+ .stad {
+    display:inline-block;
+    padding-bottom: 100px;
+ }
+    .one {
+        font-size: 55px;
+        text-align: center;
+        color:#fff;
+        font-weight: 600;
+    }
+    .two {
+        font-size: 18px;
+        text-align: center;
+        color:#fff;
+        font-weight: 600;
+        margin-top:20px;
+    }
+
+    .tree {
+        float: none;
+        border-radius: 7px;
+        width: 200px;
+        height: 60px;
+        color:#fff;
+        font-weight: 600;
+        background-color: #49B9E6;
+        margin-top: 30px;
+        transition: all 0.3s;
+    }
+    .other {
+        display: block;
+        width: 540px;
+        padding-bottom: 100px;
+    }
+
+    .chill {
+        height: 2100px;
+    }  
+    .info {
+        padding-top: 130px;
+        padding-bottom: 90px;
+        width: 400px;
+        margin-left: 0px;
+    }
+    .onewhat {
+        display: inline-block;
+        margin-right: 120px;
+    }
+    
+    .threewhat {
+        display: inline-block;
+        margin-left: 120px;
+    }
+}
+@media screen and (max-width: 791px) {
+.if {
+    height: 170px;
+    background-color: #F1C40F;
+    color:#fff;
+    font-size: 25px;
+}
+.da {
+    display: inline-block;
+    color:#fff;
+    font-size: 17px;
+    font-weight: 500;
+}
+.twonted {
+    color:#F8F0DE;
+    font-size: 15px;
+}
+.twonter {
+    color:#F8F0DE;
+    font-size: 15px;
+}
+}
+
+@media screen and (max-width: 756px) {
+    .trio {
+        height: 1400px;
+        background-color: #ECF0F1;
+    }
+    .second {
+        display: inline-block;
+        margin-left: 90px;
+        margin-right: 40px;
+    }
+    .first {
+        display: inline-block;
+        margin-left: 40px;
+    }
+    .onewhat {
+        display: inline-block;
+        margin-right: 80px;
+    }
+    
+    .threewhat {
+        display: inline-block;
+        margin-left: 80px;
+    }
+}
+
+@media screen and (max-width: 756px) {
+    .da {
+        display: inline-block;
+        color:#fff;
+        font-size: 15px;
+        font-weight: 500;
+    }
+    .twonted {
+        color:#F8F0DE;
+        font-size: 13px;
+    }
+    .twonter {
+        color:#F8F0DE;
+        font-size: 13px;
+    }
+
+    .if {
+        height: 170px;
+        background-color: #F1C40F;
+        color:#fff;
+        font-size: 22px;
+    }
+}
+
+@media screen and (max-width: 756px) {
+    .if {
+        height: 150px;
+        background-color: #F1C40F;
+        color:#fff;
+        font-size: 20px;
+    }
+    .onewhat {
+        display: inline-block;
+        margin-right: 50px;
+    }
+    
+    .threewhat {
+        display: inline-block;
+        margin-left: 50px;
+    }
+    .other {
+        display: block;
+        width: 500px;
+        padding-bottom: 100px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .test {
+        width: 540px;
+    }
+}
+
+@media screen and (max-width: 631px) {
+    .second {
+        display: inline-block;
+        margin-left: 50px;
+        margin-right: 40px;
+    }
+    .first {
+        display: inline-block;
+        margin-left: 40px;
+    }
+
+    .da {
+        display: inline-block;
+        color:#fff;
+        font-size: 15px;
+        font-weight: 500;
+    }
+    .twonted {
+        color:#F8F0DE;
+        font-size: 13px;
+    }
+    .twonter {
+        color:#F8F0DE;
+        font-size: 13px;
+    }
+
+    .colonad {
+        display: inline-block;
+        margin-right: 5px;
+        margin-left: 5px;
+        padding-top: 70px;
+        text-align: left;
+    }
+}
+
+@media screen and (max-width: 590px) {
+    .colonad {
+        display:block;
+        margin-right: 5px;
+        margin-left: 5px;
+        padding-top: 70px;
+        text-align: center;
+    }
+    .colona {
+        display: block;
+        text-align: center;
+        padding-top: 30px;
+    }
+    footer {
+        background-color: #D8AF0C;
+        height: 430px;
+    }
+    .test {
+        width: 500px;
+    }
+}
+
+
+@media screen and (max-width: 564px) {
+    .onewhat {
+        display: inline-block;
+        margin-right: 10px;
+    }
+    
+    .threewhat {
+        display: inline-block;
+        margin-left: 10px;
+    }
+    .questions {
+        height: 500px;
+        background-color: #0084B8;
+    }
+    .other {
+        display: block;
+        width: 400px;
+    }
+}
+
+@media screen and (max-width: 531px) {
+    .test {
+        width: 450px;
+    }
+    .trio {
+        height: 2050px;
+        background-color: #ECF0F1;
+    }
+    .if {
+        height: 150px;
+        background-color: #F1C40F;
+        color:#fff;
+        font-size: 17px;
+    }
+    .chans {
+        width: 370px;
+    }
+    .chin {
+        width: 260px;
+    }
+    .onewhat {
+        display: block;
+        margin-right: 0px;
+    }
+    
+    .threewhat {
+        display: block;
+        margin-left: 0px;
+    }
+    .questions {
+        height: 900px;
+        background-color: #0084B8;
+    }
+} 
+
+@media screen and (max-width: 510px) {
+    .chin {
+        width: 180px;
+    }
+    .chans {
+        width: 290px;
+    }
+    .test {
+        width: 370px;
+    }
+    .lonely {
+        font-size: 44px;
+        text-align: center;
+    }
+    .chees {
+        text-align: center;
+        font-size: 15px;
+        width: 300px;
+    }
+    .chill {
+        height: 1650px;
+    }
+    .one {
+        font-size: 33px;
+    }
+    .two {
+        font-size: 16px;
+    }
+    .iphone {
+        width:300px;
+    }
+    .you {
+        width: 300px;
+    }
+    .if {
+        height: 170px;
+    }
+}
+@media screen and (max-width: 470px) {
+    
+    .text{
+        width: 400px;  
+    }
+}
+@media screen and (max-width: 430px) {
+    
+    .text{
+        width: 300px;  
+    }
+    .info {
+        width: 300px;
+    }
+    .other {
+        width: 300px;
+    }
+    .test {
+        width: 290px;
+    }
+    .chill {
+        height: 1720px;
+    }
+    .chans {
+        width: 250px;
+    }
+}
+    
